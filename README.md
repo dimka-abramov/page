@@ -1,6 +1,6 @@
 ## Dmitry Abramov GitHub Page 
 
-Page: http://dimka-abramov.github.io
+[Visit the Page](http://dimka-abramov.github.io/page)
 
 The repository contains source code of my personal page. The page is build with [Jekyll](http://jekyllrb.com/) and is based on [Phantom](http://jamigibbs.github.io/phantom/) theme.
 
@@ -18,7 +18,7 @@ Fill free to clone the repo and build your own page similar to mine.
 
 2. Visit in your browser at:
 
-  `http://127.0.0.1:4000`
+  `http://127.0.0.1:4000/page`
 
 ## How to publish
 

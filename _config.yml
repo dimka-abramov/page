@@ -16,8 +16,8 @@
 title: "Hello. I'm Dima."
 email: 'dmitry.i.abramov@gmail.com'
 description: "I'm a software developer and entrepreneur from Berlin."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dimka-abramov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/page" # the subpath of your site, e.g. /blog
+url: "https://dimka-abramov.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: 'dmitry-abramov-33844411'
 twitter_username: 'Dimka_Abramov'
 github_username: 'dimka-abramov'
@@ -39,5 +39,5 @@ enable_contact: false
 #### Phantom Navigation menu
 enable_nav: false
 nav_item:
-  - { url: '/', text: 'Home' }
+  - { url: '/page', text: 'Home' }
   - { url: '/about', text: 'About' }
