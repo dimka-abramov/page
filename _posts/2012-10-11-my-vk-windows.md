@@ -1,7 +1,7 @@
 ---
 layout: inner
 position: left
-title: 'My VK for Windows Phone'
+title: 'My VK for Windows'
 date: 2012-10-11 00:00:00
 categories: development
 tags: Windows C# VK NuGet XAML 
